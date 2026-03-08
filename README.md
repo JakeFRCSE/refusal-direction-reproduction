@@ -46,7 +46,9 @@ The full reproduction is implemented in the notebooks/refusal_direction_reproduc
 ## Environment
 
 Google Colab (T4 GPU)
+
 Dependencies are installed directly in the notebook.
+
 Environment last verified: 2026-03-07
 
 
